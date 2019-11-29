@@ -4,7 +4,7 @@ print(wq)
 id=input("\n\nid ? ? ?")
 message=input("message ? ? ?")
 m=message.replace(" ","+")
-pass1='101020'
+pass1='9323'
 q=4
 w=0
 n=input("what is password? ? ?")
